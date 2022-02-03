@@ -1,2 +1,4 @@
 # algarismo-romano
-backend para representar os algarismos romanos
+API que irá traduzir os algarismos romanos.
+
+
