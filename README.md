@@ -3,7 +3,7 @@ API que irá traduzir os algarismos romanos.
 
 Usar no console: 
 
-• git pull = Puxar as aleteração para a tua máquina.
+• git pull = Puxar as aleteração para a tua máquina. sdadsa
 
 ## Mais prioritários, para jogar as alterações pro github.
 
